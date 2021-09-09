@@ -10,6 +10,6 @@ The tables include the number of people who said they were likely to face evicti
 
 The tables here are for Week 36, a period ending Sept. 2. We will replace with the latest data as it becomes available.
 
-There is a version available as csv, which you can view, search or download here, and an Excel version, which you can download.
+There is a version available as csv, which you can view, search or download here, and an Excel version, which you can download. There are also files available for the previous period, which was as of Aug. 16.
 
 If you're interested in seeing the survey that is being sent to people, you can check out all the details of the program, as well as other questions asked of respondents in the latest round at https://www.census.gov/programs-surveys/household-pulse-survey.html and you can search and explore an interactive of the data created by the Census Bureau at https://www.census.gov/data-tools/demo/hhp.
