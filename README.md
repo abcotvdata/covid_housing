@@ -8,7 +8,7 @@ The data here show the number and percentage of adults surveyed who said they we
 
 The tables include the number of people who said they were likely to face eviction or foreclosure, the percentage of people and the Census Bureau's estimate of the range of the margin of error for the survey.
 
-The tables here are for Week 35, a period ending Aug. 16. We will replace with the latest data as it becomes available.
+The tables here are for Week 36, a period ending Sept. 2. We will replace with the latest data as it becomes available.
 
 There is a version available as csv, which you can view, search or download here, and an Excel version, which you can download.
 
